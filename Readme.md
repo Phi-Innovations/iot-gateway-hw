@@ -21,5 +21,5 @@ The hardware was designed using [Altium Designer](www.altium.com) tool.
 
 # TODO
 
-[ ] Improve documentation
-[ ] Add reset connection between CPU and the WiFi module
+- [ ] Improve documentation
+- [ ] Add reset connection between CPU and the WiFi module
